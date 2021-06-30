@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>hw06.html</title>
+    <style>
+         #head {
+            border: 10px solid violet;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            margin: 100px, 30px, 30px, 30px;
+        }
+        div {
+            height: 150px;
+        }
+        img {
+            float: left;
+            width: 300px;
+            height: 150px;
+            overflow: auto;
+        }
+
+        #title{
+            font-weight: bold;
+            padding-top: 50px;
+            padding-left: 300px;
+            margin: 100px, 30px, 30px, 30px;
+        }
+        #menu {
+            padding-top: 50px;
+            height: 150px;
+        }
+        #main_image img {
+            align-content: center;
+            width: 300px;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div id="head">
+        <div id="logo">
+            <img src="./img/박물관.jpg">
+            <p id="title">부엉박물관</p>
+        </div>
+        <div id="menu">
+            <a href="./introduce.html">박물관 소개</a> &nbsp;&nbsp;
+            <a href="./notice.html">공지사항</a>&nbsp;&nbsp;&nbsp;
+            <a href="./question.html">문의사항</a>
+        </div>
+    </div>
+
+    <hr size="10px" noshade="noshade">
+
+    <div id="main_image">
+        <img src="./img/부엉.jpg">
+        <img src="./img/부옥.jpg">
+    </div>
+    <div>
+        <h5>출처: 나무위키 동물의 숲</h5>
+    </div>
+</body>
+</html>
