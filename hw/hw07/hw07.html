@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>hw06.html</title>
+    <style>
+         #head {
+            border: 10px solid green;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            margin: 100px, 30px, 30px, 30px;
+            background-color: rgb(37, 184, 37);
+            height: 200px;
+            width: auto;
+        }
+        #logo img {
+            width: 200px;
+            float: left;
+            padding-left: 30px;
+        }
+        #logo p {
+            color: honeydew;
+            font-size: 30px;
+            padding-bottom: 60px;
+            padding-left: 30px;
+            align-content: center;
+        }
+        #title{
+            font-weight: bold;
+            padding-top: 50px;
+        }
+        #menu {
+            padding-top: 80px;
+        }
+        #menu a {
+            text-decoration: none;
+            color: honeydew;
+            font-size: 20px;
+        }
+        #main_image {
+            padding: 30px;
+     
+        }
+
+        #img {
+            border: 3px solid red;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            padding-top: 50px;
+            height: 400px;
+            margin-top: 10px;
+        }
+
+        #img1 {
+            width: 800px;
+            height: 300px;
+        }
+        #img1 img{
+            width: 300px;
+            height: 300px;
+            overflow: auto;
+        }
+        #img figcaption {
+            font-weight: bold;
+            font-size: 20px;
+            padding-bottom: 5px;
+        } 
+        
+        #img2 {
+            width: 800px;
+            height: 300px;
+            padding-right: 300px;
+        }
+        #img2 img{    
+            width: 250px;
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div id="head" align="center">
+        <div id="logo">
+            <img src="./img/logo.jpg">
+            <p id="title">부엉박물관에 놀러온 것을 환영합니다!!</p>
+        </div>
+        <div id="menu">
+            <a href="./introduce.html">박물관 소개&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+            <a href="./notice.html">공지사항&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+            <a href="./question.html">문의사항</a>
+        </div>
+    </div>
+    
+    <div id="img" align="center">
+        <div id="img1">
+            <figure>
+                <figcaption> 부엉이를 클릭하세요! </figcaption>
+                <a href="./ung.html"><img src="./img/부엉.jpg"></a>
+            </figure>
+        </div>
+        <div id="img2">
+            <figure>
+                <figcaption> 부옥이를 클릭하세요! </figcaption>
+                <a href="./ok.html"><img src="./img/부옥.jpg"></a>
+            </figure>
+        </div>
+    </div>
+
+
+    <div>
+        <h5>출처: 나무위키 동물의 숲</h5>
+    </div>
+    </body>
+    
+    </html>
