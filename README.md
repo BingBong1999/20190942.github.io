@@ -16,12 +16,12 @@
 ## 🛸 주요 기능 및 특징
 
 - 저의 간단한 **개인 정보** (이름, 나이, 성별, 학년, 전공 등)을 기재하였습니다.
-- 제가 당시 즐겨했던 **게임의 간단한 정보**를 **<ul>, <img>, <a href>, <dl>, <dt>, <dd>** 등의 태그를 사용하여 표시하였습니다.
+- 제가 당시 즐겨했던 **게임의 간단한 정보**를 ```<ul>``` ```<img>``` ```<a href>``` ```<dl>``` ```<dt>``` ```<dd>``` 등의 태그를 사용하여 표시하였습니다.
   
 ## 🎯 프로그램 이미지 파일
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dc08417b-23be-46e8-a956-c4f30e08053a/0a2c3b06-d8a3-4de6-bc36-a871ba07d5b3/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dc08417b-23be-46e8-a956-c4f30e08053a/0ce28e84-4a5e-430f-949f-6c398bdebe55/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dc08417b-23be-46e8-a956-c4f30e08053a/d1c72ae1-2dec-4db3-a1a0-c5f1081345af/Untitled.png)
+![Untitled (1)](https://github.com/BingBong1999/20190942.github.io/assets/142529694/55c53903-ff33-4602-81e6-3c94d243a574)
+![Untitled (2)](https://github.com/BingBong1999/20190942.github.io/assets/142529694/bed3c6c0-673e-4896-a21f-01e7e8a2d975)
+![Untitled (3)](https://github.com/BingBong1999/20190942.github.io/assets/142529694/d13ee66f-2cca-4fee-b067-f4c3a09df3cf)
 
 - 더 자세한 내용은 README.md 파일 상단에 첨부한 GitHub Pages 공유 링크를 확인해주시면 감사하겠습니다.
