@@ -20,8 +20,12 @@
   
 ## 🎯 프로그램 이미지 파일
 
-![Untitled (1)](https://github.com/BingBong1999/20190942.github.io/assets/142529694/55c53903-ff33-4602-81e6-3c94d243a574)
-![Untitled (2)](https://github.com/BingBong1999/20190942.github.io/assets/142529694/bed3c6c0-673e-4896-a21f-01e7e8a2d975)
-![Untitled (3)](https://github.com/BingBong1999/20190942.github.io/assets/142529694/d13ee66f-2cca-4fee-b067-f4c3a09df3cf)
+>![image](https://github.com/BingBong1999/20190942.github.io/assets/142529694/2e2ebe64-7e93-482d-bc98-7f7b136ee78b)
+
+
+>![image](https://github.com/BingBong1999/20190942.github.io/assets/142529694/fa453564-7e22-4fad-98eb-274c18c041b9)
+
+
+>![image](https://github.com/BingBong1999/20190942.github.io/assets/142529694/9d48f6b8-f8c0-417f-bee4-8387182b7609)
 
 - 더 자세한 내용은 README.md 파일 상단에 첨부한 GitHub Pages 공유 링크를 확인해주시면 감사하겠습니다.
